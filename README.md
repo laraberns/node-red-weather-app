@@ -39,10 +39,10 @@ Postman was used to test the APIs integrated into this project to ensure reliabl
 The project's frontend display was initially sourced from Bootsnip but was subsequently customized and adapted to accommodate the specific features and functionality of this application.
 
 
-## Display Desktop:
+## Desktop Display:
 ![image](https://github.com/laraberns/node-red-weather-app/assets/133805423/6a42fb4e-7adc-459b-b365-c8cf8d9ea741)
 
-## Display Mobile:
+## Mobile Display :
 ![ezgif-3-08a62e6f9f_50](https://github.com/laraberns/node-red-weather-app/assets/133805423/9d220812-9ee3-43da-a2e6-f8e2489490e6)
 
 ## Flow on Node-RED:
